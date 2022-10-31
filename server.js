@@ -5,7 +5,7 @@
  */
 
 var app = require('./config/app');
-var debug = require('debug')('comp229-w2020-midterm-300849838');
+var debug = require('debug')('comp229-f2022-midterm-300849838');
 var http = require('http');
 
 /**

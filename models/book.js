@@ -1,5 +1,4 @@
-// <!-- File: book.js Author: Manipal Singh Sidhu - Student Number: 300859319 WebApp Name: Midterm - Created on: October 27, 2021 -->
-
+// <!-- File: book.js Author:Akash Arora - Student Number: 300849838 Created on: October 27, 2022 -->
 let mongoose = require('mongoose');
 
 // Create a model class
