@@ -1,0 +1,33 @@
+{
+  "name": "comp229-w2020-midterm-300849838",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "bootstrap": "^5.1.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jquery": "^3.6.0",
+    "mongoose": "^6.0.8",
+    "morgan": "~1.9.1"
+  },
+  "description": "This is an initial project template for students to implement the remaining code, as per midterm test requirements.",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash0786-lab/COMP229-F2022-Midterm-300849838.git"
+  },
+  "author": "Akash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akash0786-lab/COMP229-F2022-Midterm-300849838/issues"
+  },
+  "homepage": "https://github.com/akash0786-lab/COMP229-F2022-Midterm-300849838#readme"
+}
