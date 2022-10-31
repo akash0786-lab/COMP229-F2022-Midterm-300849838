@@ -1,2 +1,5 @@
-# comp229-f2021-midterm-template
-This is an initial project template for students to implement the remaining code, as per midterm test requirements.
+# COMP229-F2019-MidTerm Test
+
+## Welcome to the MidTerm Project - the Favourite Book List App
+
+please use **`npm install`** to install project dependencies
